@@ -1,0 +1,25 @@
+:root {
+    --main-background: #eaeaf1;
+    --background-card: #000000;
+    --background-sidebar: #ffffff;
+    --color-items: #e2e2ef;
+    --color-icon: #232327;
+    --color-text: #232327;
+    --color-name-perfil: #232327;
+    --color-name-music: #232327;
+    --color-name-band: #232327;
+    --color-title-sugestion-for-you: #232327;
+    --background-content: #fafafa;
+    --background-rect: #F0F0F0;
+    --last-col-background: #F0F0F0;
+    --background-header: #fffafa;
+    --background-user-sugestion: #e4e3ef;
+    --timing: 0.3s;
+    --width-of-input: 200px;
+    --height-of-input: 40px;
+    --border-height: 2px;
+    --input-bg: #fff;
+    --border-color: #232327;
+    --border-radius: 30px;
+    --after-border-radius: 1px;
+}
